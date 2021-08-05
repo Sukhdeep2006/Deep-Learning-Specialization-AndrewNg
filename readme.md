@@ -2,14 +2,14 @@ This is the directory to host all my work completed as part of the Deep Learning
 
 Here is the summary of all the Deep Learning Notebooks completed as part of the specialization.
 
-## * Improving-Deep-Neural-Netwroks
-###   * NN-Initialization
-###   * NN-Regularization
-###   * NN-GradientChecking
-###   * GradientDescent-Optimization
-###   * TensorFlow-Introduction
+1. Improving-Deep-Neural-Netwroks
+###   1. NN-Initialization
+###   2. NN-Regularization
+###   3. NN-GradientChecking
+###   4. GradientDescent-Optimization
+###   5. TensorFlow-Introduction
 
-# Neural_Networks_And_Deep_Learning
+2. Neural_Networks_And_Deep_Learning
 
 # Convolutional-Networks
 
